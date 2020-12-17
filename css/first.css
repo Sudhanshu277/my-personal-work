@@ -1,0 +1,65 @@
+.a{
+	background-color: #0000009c;
+}
+.ml {
+    padding-top: 20px;
+    text-transform: uppercase;
+    font-family: prague;
+    letter-spacing: 3px;
+
+}
+.p{
+	line-height: 35px;
+    letter-spacing: 1px;
+    word-spacing: 1px;
+
+}
+.why{
+    background-image: url(https://www.firstfiddle.in/assets/images/bannerabout.jpg);
+    width: 100%;
+    padding-right: 0!important;
+    padding-left: 0!important;
+    margin-right: auto;
+    margin-left: auto;
+    background-size: cover;
+	}
+.why2{
+	background-image: url(https://www.firstfiddle.in/assets/images/outletbanner.png);
+	background-size: cover;
+	width: 100%;
+	padding-right: 0!important;
+    padding-left: 0!important;
+    margin-right: auto;
+    margin-left: auto;
+}
+.mtop{
+	margin-top: 30px;
+    margin-bottom: 100px;
+}
+.n{
+	background-image: url(https://app.firstfiddle.in/images/brand-banner/dragonflybanner.jpeg);
+	background-size: cover;
+	width: 100%;
+	padding-right: 0!important;
+    padding-left: 0!important;
+    margin-right: auto;
+    margin-left: auto;
+}
+.b1{
+	background-image: url(https://www.firstfiddle.in/assets/images/about-new.jpg);
+	background-size: cover;
+	width: 100%;
+	padding-right: 0!important;
+    padding-left: 0!important;
+    margin-right: auto;
+    margin-left: auto;
+}
+.b2{
+	background-image: url(https://www.firstfiddle.in/assets/images//gamebanner.jpg);
+	background-size: cover;
+	width: 100%;
+	padding-right: 0!important;
+    padding-left: 0!important;
+    margin-right: auto;
+    margin-left: auto;
+}

@@ -5,3 +5,13 @@
 .b{
 	font-family: 'Prompt', sans-serif;
 }
+.w{
+	background:  url(https://www.firstfiddle.in/assets/images/bannerabout.jpg);
+	background-size: cover;
+    color: red;
+    width: 100%;
+}
+*{
+	margin: 0;
+	padding: 0;
+}
